@@ -6,7 +6,7 @@ export const navLinks = [
       "border-r-2 h-full border-gray-50 p-4 font-semibold text-gray-600 hidden flex justify-center items-center text-center lg:block hover:bg-black hover:text-white transition-all",
   },
   {
-    name: "About",
+    name: "FAQ's",
     href: "/about",
     style:
       "border-r-2 border-gray-50 p-4 font-semibold text-gray-600 hidden flex justify-center items-center text-center lg:block hover:bg-black hover:text-white transition-all",
