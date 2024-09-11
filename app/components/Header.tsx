@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <header className="w-full border-b-2 border-gray-50">
       <nav className="w-full h-full">
-        <ul className="w-full h-full grid grid-cols-[1fr_2fr] lg:grid-cols-[1fr_1fr_2fr_1fr_1fr] text-center">
+        <ul className="w-full h-full grid grid-cols-[1fr_2fr] md:grid-cols-[1fr_1fr_2fr_1fr_1fr] text-center">
           {navLinks.map((link, index) => (
             <li key={index} className={link.style}>
               {link.isLogo ? (
