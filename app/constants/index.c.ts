@@ -76,3 +76,30 @@ export const people = [
       "https://images.unsplash.com/photo-1544725176-7c40e5a71c5e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3534&q=80",
   },
 ];
+
+export const stats = [
+  { value: 100, suffix: "", title: "Projects launched" },
+  {
+    value: 89.2,
+    suffix: "%",
+    decimal: ".",
+    decimals: 1,
+    title: "Green grid energy",
+  },
+  { value: 50, suffix: "+", title: "Startups raised" },
+];
+
+export const valueCards = [
+  {
+    title: "Reducing greenhouse gas emissions",
+    desc: "Reducing greenhouse gas emissions is crucial for mitigating climate change. Efforts such as transitioning to renewable energy, and adopting sustainable transportation can significantly lower emissions and promote a healthier planet.",
+  },
+  {
+    title: "Service excellence for all our customers",
+    desc: "Reducing greenhouse gas emissions is crucial for mitigating climate change and protecting ecosystems. Efforts such as transitioning to renewable energy, and adopting sustainable transportation can significantly lower emissions and promote a healthier planet.",
+  },
+  {
+    title: "Facilitating Access to the best properties",
+    desc: "Reducing greenhouse gas emissions is crucial for mitigating climate change and protecting ecosystems. Efforts such as transitioning to renewable energy, and adopting sustainable transportation can significantly lower emissions and promote a healthier planet.",
+  },
+];
